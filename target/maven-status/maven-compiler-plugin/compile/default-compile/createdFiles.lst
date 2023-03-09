@@ -1,0 +1,5 @@
+com\javafetching\controller\ProductController.class
+com\javafetching\SpringDataJpaApplication.class
+com\javafetching\respository\ProductRepository.class
+com\javafetching\service\ProductService.class
+com\javafetching\entity\Product.class
